@@ -31,4 +31,4 @@ spec:
         automated:
           prune: true  
         syncOption:
-        - CreateNamespace=true 
+	- CreateNamespace=true 
